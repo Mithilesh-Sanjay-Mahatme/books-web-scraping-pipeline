@@ -10,6 +10,7 @@ This project demonstrates a simple end-to-end web scraping workflow using Python
 -  requests
 -  BeautifulSoup
 -  pandas
+-  datetime
 
 
 🚀 Features
